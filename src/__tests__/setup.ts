@@ -1,3 +1,4 @@
+import 'intersection-observer';
 import '@testing-library/jest-dom';
 import { server } from './mocks/server';
 
